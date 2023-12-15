@@ -1,7 +1,9 @@
+package coding.java;
+
 public class CovertSentenceCAse {
     public static void main(String[] args) {
 
-            String s = "my name is sravani";
+            String s = "my name is computer";
             String rev = "";
 
             String s1 [] = s.split(" ");

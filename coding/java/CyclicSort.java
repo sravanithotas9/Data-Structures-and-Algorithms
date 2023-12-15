@@ -1,3 +1,5 @@
+package coding.java;
+
 import java.util.Arrays;
 
 /*if given number range is (1,N) or (0,N  ) follow cyclic sort algorithm
