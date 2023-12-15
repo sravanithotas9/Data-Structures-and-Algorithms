@@ -1,3 +1,5 @@
+package coding.java;
+
 import java.util.Arrays;
 
 public class strbulid {
@@ -5,7 +7,7 @@ public class strbulid {
 
         StringBuilder sb = new StringBuilder ();
 
-        String str = "sravani srithika";
+        String str = "abc test";
 
         for (int i = 0; i < 26; i++) {
 
@@ -19,7 +21,7 @@ public class strbulid {
         System.out.println ( sb );
         sb.append ( str );
 
-        sb.append ( "dileep" );
+        sb.append ( "xyz" );
         sb.reverse ();
 
         System.out.println ( sb );
