@@ -1,9 +1,11 @@
+package coding.java;
+
 import java.util.LinkedHashMap;
 
 // Java program to create a unique String using unordered map
 public class LnkdHM_RemovedDuplicates {
     public static void main(String[] args) {
-        String str = "Dileep";
+        String str = "TestTT";
         System.out.println ( removeDuplicates( str ) );
     }
     public static String removeDuplicates(String str) {

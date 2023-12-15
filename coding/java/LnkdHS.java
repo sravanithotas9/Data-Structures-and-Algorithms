@@ -1,9 +1,11 @@
+package coding.java;
+
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 
 public class LnkdHS {
     public static void main(String[] args) {
-        String str = "Dileep";
+        String str = "Testt";
         System.out.println ( removeDuplicates( str ) );
     }
     public static String removeDuplicates(String str) {
