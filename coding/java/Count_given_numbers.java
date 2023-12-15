@@ -1,3 +1,5 @@
+package coding.java;
+
 public class Count_given_numbers {
     public static void main(String[] args) {
         int num =12345;
