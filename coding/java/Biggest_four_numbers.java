@@ -1,3 +1,5 @@
+package coding.java;
+
 public class Biggest_four_numbers {
     public static void main(String[] args) {
         int a=3,b=45,c=32,d=10;
