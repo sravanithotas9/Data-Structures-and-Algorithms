@@ -1,3 +1,5 @@
+package coding.java;
+
 public class UpperLowerNUmber {
     public static void main(String[] args) {
         String str = "HeLlo WELcome @32#45";

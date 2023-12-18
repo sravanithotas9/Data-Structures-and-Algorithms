@@ -1,3 +1,5 @@
+package coding.java;
+
 public class SumOfDigits {
     public static void main(String[] args) {
         int n = 333;

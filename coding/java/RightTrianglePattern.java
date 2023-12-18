@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package coding.java;
+
 
 public class RightTrianglePattern {
     public static void main(String[] args) {
