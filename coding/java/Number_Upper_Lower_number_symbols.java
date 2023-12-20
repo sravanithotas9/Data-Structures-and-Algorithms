@@ -1,3 +1,5 @@
+package coding.java;
+
 public class Number_Upper_Lower_number_symbols {
     public static void main(String[] args) {
         String str = "The COMPUTER 34%^89@!7";

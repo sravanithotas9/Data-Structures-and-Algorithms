@@ -1,3 +1,5 @@
+package coding.java;
+
 public class prime_numbers {
     public static void main(String[] args) {
 
