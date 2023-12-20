@@ -1,3 +1,5 @@
+package coding.java;
+
 public class Prime_numbr_count_btwnnumbrs {
     public static void main(String[] args) {
 
