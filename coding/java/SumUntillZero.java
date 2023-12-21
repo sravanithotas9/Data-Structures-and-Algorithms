@@ -1,3 +1,5 @@
+package coding.java;
+
 import java.util.Scanner;
 
 public class SumUntillZero {

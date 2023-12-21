@@ -1,3 +1,5 @@
+package coding.java;
+
 import java.util.Arrays;
 import java.util.stream.Stream;
 
