@@ -1,3 +1,5 @@
+package coding.java;
+
 public class RightPascalsTrianglepattern {
     public static void main(String[] args) {
 

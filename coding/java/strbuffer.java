@@ -1,3 +1,5 @@
+package coding.java;
+
 public class strbuffer {
     public static void main(String[] args) {
         //it will give the size of a buffer by default it will give 16 characters when it is empty
